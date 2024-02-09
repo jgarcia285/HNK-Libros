@@ -1,0 +1,212 @@
+{
+    "library": [
+        {
+            "book": {
+                "title": "El Imperio Final",
+                "pages": 680,
+                "genre": "Fantasía",
+                "cover": "https://imagessl4.casadellibro.com/a/l/s7/94/9788413143194.webp",
+                "year": 2008,
+                "ISBN": "978-8413143194",
+                "author": {
+                    "name": "Brandon Sanderson"
+                }
+            }
+        },
+        {
+            "book": {
+                "title": "El Señor de los Anillos",
+                "pages": 1200,
+                "genre": "Fantasía",
+                "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1566425108i/33.jpg",
+                "year": 1954,
+                "ISBN": "978-0618640157",
+                "author": {
+                    "name": "J.R.R. Tolkien"
+                }
+            }
+        },
+        {
+            "book": {
+                "title": "Juego de Tronos",
+                "pages": 694,
+                "genre": "Fantasía",
+                "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1273763400i/8189620.jpg",
+                "year": 1996,
+                "ISBN": "978-0553103540",
+                "author": {
+                    "name": "George R. R. Martin"
+                }
+            }
+        },
+        {
+            "book": {
+                "title": "Harry Potter y la piedra filosofal",
+                "pages": 223,
+                "genre": "Fantasía",
+                "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1550337333i/15868.jpg",
+                "year": 1997,
+                "ISBN": "978-0747532699",
+                "author": {
+                    "name": "J.K. Rowling"
+                }
+            }
+        },
+        {
+            "book": {
+                "title": "1984",
+                "pages": 328,
+                "genre": "Ciencia ficción",
+                "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1657781256i/61439040.jpg",
+                "year": 1949,
+                "ISBN": "978-0451524935",
+                "author": {
+                    "name": "George Orwell"
+                }
+            }
+        },
+        {
+            "book": {
+                "title": "Apocalipsis Zombie",
+                "pages": 444,
+                "genre": "Zombies",
+                "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1422626176i/24762432.jpg",
+                "year": 2001,
+                "ISBN": "978-4444532611",
+                "author": {
+                    "name": "Manel Loreiro"
+                }
+            }
+        },
+        {
+            "book": {
+                "title": "Elantris",
+                "pages": 800,
+                "genre": "Fantasía",
+                "cover": "https://imagessl1.casadellibro.com/a/l/s7/41/9788413146041.webp",
+                "year": 2006,
+                "ISBN": "978-8413146041",
+                "author": {
+                    "name": "Brandon Sanderson"
+                }
+            }
+        },
+        {
+            "book": {
+                "title": "Dune",
+                "pages": 412,
+                "genre": "Ciencia ficción",
+                "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1555447414i/44767458.jpg",
+                "year": 1965,
+                "ISBN": "978-0441172719",
+                "author": {
+                    "name": "Frank Herbert"
+                }
+            }
+        },
+        {
+            "book": {
+                "title": "La Guía del Autoestopista Galáctico",
+                "pages": 216,
+                "genre": "Ciencia ficción",
+                "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1653311117i/6691227.jpg",
+                "year": 1979,
+                "ISBN": "978-0345391803",
+                "author": {
+                    "name": "Douglas Adams"
+                }
+            }
+        },
+        {
+            "book": {
+                "title": "Neuromante",
+                "pages": 271,
+                "genre": "Ciencia ficción",
+                "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1554437249i/6088007.jpg",
+                "year": 1984,
+                "ISBN": "978-0441569595",
+                "author": {
+                    "name": "William Gibson"
+                }
+            }
+        },
+        {
+            "book": {
+                "title": "El Camino De Los Reyes",
+                "pages": 1200,
+                "genre": "Fantasía",
+                "cover": "https://imagessl1.casadellibro.com/a/l/s7/41/9788413143941.webp",
+                "year": 2010,
+                "ISBN": "978-8413143941",
+                "author": {
+                    "name": "Brandon Sanderson"
+                }
+            }
+        },
+        {
+            "book": {
+                "title": "Fahrenheit 451",
+                "pages": 249,
+                "genre": "Ciencia ficción",
+                "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1383718290i/13079982.jpg",
+                "year": 1953,
+                "ISBN": "978-1451673319",
+                "author": {
+                    "name": "Ray Bradbury"
+                }
+            }
+        },
+        {
+            "book": {
+                "title": "El resplandor",
+                "pages": 688,
+                "genre": "Terror",
+                "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1641398308i/60038757.jpg",
+                "year": 1977,
+                "ISBN": "978-0307743657",
+                "author": {
+                    "name": "Stephen King"
+                }
+            }
+        },
+        {
+            "book": {
+                "title": "Drácula",
+                "pages": 418,
+                "genre": "Terror",
+                "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1387151694i/17245.jpg",
+                "year": 1897,
+                "ISBN": "978-0486411095",
+                "author": {
+                    "name": "Bram Stoker"
+                }
+            }
+        },
+        {
+            "book": {
+                "title": "Frankenstein",
+                "pages": 280,
+                "genre": "Terror",
+                "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1669159060i/63631742.jpg",
+                "year": 1818,
+                "ISBN": "978-0486282114",
+                "author": {
+                    "name": "Mary Shelley"
+                }
+            }
+        },
+        {
+            "book": {
+                "title": "La llamada de Cthulhu",
+                "pages": 43,
+                "genre": "Terror",
+                "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1485924654i/34094154.jpg",
+                "year": 1928,
+                "ISBN": "978-1542461690",
+                "author": {
+                    "name": "H.P. Lovecraft"
+                }
+            }
+        }
+    ]
+}
