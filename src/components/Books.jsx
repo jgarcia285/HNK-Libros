@@ -86,7 +86,7 @@ export const Books = () => {
                         {
                             matchesReadList.filter((bookSearch) => {
                                 if (search == '') return bookSearch
-                                else if (bookSearch.title.toLowerCase().includes(search)) return bookSearch
+                                else if (bookSearch.title.toLowerCase().includes(search.toLowerCase()) || bookSearch.author.name.toLowerCase().includes(search.toLowerCase())) return bookSearch
 
                             }).map(book => (
                                 <li key={book.ISBN} className='book' onClick={() => handleBookClick(book.ISBN)}>
