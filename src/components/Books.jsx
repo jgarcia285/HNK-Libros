@@ -94,6 +94,7 @@ export const Books = () => {
                                         {readList.includes(book.ISBN) && <span> * </span>}
                                         {book.title}
                                     </h3>
+                                    <h4>{book.author.name}</h4>
                                     <img src={book.cover} />
                                 </li>
                             ))
