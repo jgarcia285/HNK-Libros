@@ -6,8 +6,7 @@ export const useFilters = () => {
 
     const genres = Array.from(new Set(books.map(book => book.genre)))
     const [genre, setGenre] = useState("")
-
-    const storage = JSON.parse(localStorage.getItem('readList'))
+    const storage = JSON.parse(localStorage.getItem('readList')) || []
 
     const matches = useMemo(() => {
         if (!genre) return books
@@ -31,7 +30,7 @@ export const useFilters = () => {
             if (genre && book.genre !== genre) return false
             return true
         })
-    }, [storage, genre])
+    }, [genre, storage])
 
     return { genres, matches, setGenre, genre, matchesReadList }
 }
