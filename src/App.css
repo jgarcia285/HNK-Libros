@@ -1,3 +1,9 @@
+#root {
+  max-width: 90%;
+  padding: 1em;
+  margin: 0 auto;
+}
+
 main {
   display: flex;
   justify-content: center;
@@ -48,4 +54,11 @@ form {
 
   margin-top: 2rem;
   gap: 10px
+}
+
+@media (max-width: 800px){
+  header {
+    display: flex;
+    flex-direction: column;
+  }
 }
